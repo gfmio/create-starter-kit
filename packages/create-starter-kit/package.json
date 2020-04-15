@@ -1,0 +1,14 @@
+{
+  "name": "create-starter-kit",
+  "version": "0.0.0",
+  "description": "A starter kit for starter kits (like create-react-app)",
+  "repository": "https://github.com/gfmio/create-starter-kit",
+  "author": {
+    "email": "npm@gfm.io",
+    "name": "Frédérique Mittelstaedt",
+    "url": "https://www.gfm.io"
+  },
+  "license": "MIT",
+  "private": false,
+  "main": "index.js"
+}
